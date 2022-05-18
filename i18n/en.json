@@ -2,6 +2,6 @@
 	"@metadata": {
 		"authors": ["Simon Stier"]
 	},
-	"template-desc": "Template for mediawiki extensions",
-	"template-name": "Template"
+	"semantic-properties-desc": "Bundles common properties for SemanticMediaWiki",
+	"semantic-properties-name": "SemanticProperties"
 }

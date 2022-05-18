@@ -1,10 +1,10 @@
 <?php
 
-class Template {
+class SemanticProperties {
 
 	public static function onBeforePageDisplay( $out ) {
 
-		$out->addModules( 'ext.Template' );
+		$out->addModules( 'ext.SemanticProperties' );
 
 		return true;
 

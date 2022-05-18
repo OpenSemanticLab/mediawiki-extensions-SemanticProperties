@@ -1,40 +1,40 @@
 {
     "manifest_version":2,
-    "name":"Template",
+    "name":"SemanticProperties",
     "version":"0.0.1",
     "author":[
         "[https://github.com/simontaurus Simon Stier]"
     ],
-    "url":"https://github.com/simontaurus/mediawiki-extensions-Template",
-    "descriptionmsg":"template-desc",
-    "namemsg":"template-name",
+    "url":"https://github.com/simontaurus/mediawiki-extensions-SemanticProperties",
+    "descriptionmsg":"semantic-properties-desc",
+    "namemsg":"semantic-properties-name",
     "license-name":"AGPL-3.0-or-later",
     "type":"editor",
     "requires":{
         "MediaWiki":">= 1.31"
     },
     "MessagesDirs":{
-        "Template":[
+        "SemanticProperties":[
             "i18n"
         ]
     },
     "ResourceModules":{
-        "ext.Template":{
-            "localBasePath":"modules/ext.Template",
-            "remoteExtPath":"Template/modules/ext.Template",
+        "ext.SemanticProperties":{
+            "localBasePath":"modules/ext.SemanticProperties",
+            "remoteExtPath":"SemanticProperties/modules/ext.SemanticProperties",
             "styles":[
-                "Template.css"
+                "SemanticProperties.css"
             ],
             "scripts":[
-                "Template.js"
+                "SemanticProperties.js"
             ],
             "position":"bottom"
         }
     },
     "AutoloadClasses":{
-        "Template":"includes/Template.php"
+        "SemanticProperties":"includes/SemanticProperties.php"
     },
     "Hooks":{
-        "BeforePageDisplay":"Template::onBeforePageDisplay"
+        "BeforePageDisplay":"SemanticProperties::onBeforePageDisplay"
     }
 }
