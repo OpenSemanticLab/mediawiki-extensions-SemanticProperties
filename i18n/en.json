@@ -1,0 +1,7 @@
+{
+	"@metadata": {
+		"authors": ["Simon Stier"]
+	},
+	"template-desc": "Template for mediawiki extensions",
+	"template-name": "Template"
+}
