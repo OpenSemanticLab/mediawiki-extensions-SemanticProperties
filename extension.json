@@ -35,6 +35,7 @@
         "SemanticProperties":"includes/SemanticProperties.php"
     },
     "Hooks":{
-        "BeforePageDisplay":"SemanticProperties::onBeforePageDisplay"
+        "BeforePageDisplay":"SemanticProperties::onBeforePageDisplay",
+        "PageImporterRegisterPageLists": "SemanticProperties::onPageImporterRegisterPageLists",
     }
 }
