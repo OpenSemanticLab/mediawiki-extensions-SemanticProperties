@@ -1,0 +1,11 @@
+
+{{OslTemplate:Property/Quantity
+|label=外界壓力@zh-hant;外界压力@zh-hans;外界压力@zh;சூழ் அழுத்தம்@ta;внешнее давление@ru;wonkowny ćišć@hsb;pression ambiante@fr;presión ambiental@es;ambient pressure@en;Außendruck@de;ضغط محيط@ar;外界壓力@zh-hant;外界压力@zh-hans;外界压力@zh;சூழ் அழுத்தம்@ta;внешнее давление@ru;wonkowny ćišć@hsb;pression ambiante@fr;presión ambiental@es;ambient pressure@en;Außendruck@de;ضغط محيط@ar
+|ontology_iri=http://qudt.org/vocab/quantitykind/AmbientPressure;http://www.wikidata.org/entity/Q789775
+|description=The ambient pressure on an object is the pressure of the surrounding medium, such as a gas or liquid, which comes into contact with the object.
+The SI unit of pressure is the pascal (Pa), which is a very small unit relative to atmospheric pressure on Earth, so kilopascals (<math>kPa</math>) are more commonly used in this context. 
+|base_quantity=Property:HasForcePerArea
+|subquantity_of=Property:HasPressure
+|display_units=uPa;uTorr;mPa;dyn/cm2;ubar;uatm;mTorr;Pa;kg.m-1.s-2;N.m-2;kPa{absolute};[lb_av].[ft_i].s-2.[sft_i]-1;kgf.m-2;mm[H2O];daPa;[lbf_av].[sft_i]-1;cm[H2O];gf.cm-2;hPa;mbar;Torr;mm[Hg];[in_i'H2O];kPa;cbar;cm[Hg];[in_i'Hg];[lbf_av].[sin_i]-1;[psi];dbar;N.cm-1;[ft_i'Hg];att;kgf.cm-2;bar;atm;N.mm-2;MPa;k[lbf_av].[sin_i]-1;k[lbf_av].[in_i]-2;kgf.mm-2;hbar;kbar;GP;Mbar
+|input_units=uPa;uTorr;mPa;dyn/cm2;ubar;uatm;mTorr;Pa;kg.m-1.s-2;N.m-2;kPa{absolute};[lb_av].[ft_i].s-2.[sft_i]-1;kgf.m-2;mm[H2O];daPa;[lbf_av].[sft_i]-1;cm[H2O];gf.cm-2;hPa;mbar;Torr;mm[Hg];[in_i'H2O];kPa;cbar;cm[Hg];[in_i'Hg];[lbf_av].[sin_i]-1;[psi];dbar;N.cm-1;[ft_i'Hg];att;kgf.cm-2;bar;atm;N.mm-2;MPa;k[lbf_av].[sin_i]-1;k[lbf_av].[in_i]-2;kgf.mm-2;hbar;kbar;GP;Mbar
+}}

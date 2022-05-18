@@ -1,0 +1,20 @@
+{{OslTemplate:Property/Quantity
+|description=test for units with multiple main units with conversion factor = 1
+|main_unit=mu
+|alternative_units={{OslTemplate:Property/Quantity/Unit
+|unit=mutwo
+|factor=1
+|use_as_display_unit=Yes
+|use_as_input_unit=Yes
+}}{{OslTemplate:Property/Quantity/Unit
+|unit=muthree
+|factor=1
+|use_as_display_unit=Yes
+|use_as_input_unit=Yes
+}}{{OslTemplate:Property/Quantity/Unit
+|unit=kmu
+|factor=1000
+|use_as_display_unit=Yes
+|use_as_input_unit=Yes
+}}
+}}

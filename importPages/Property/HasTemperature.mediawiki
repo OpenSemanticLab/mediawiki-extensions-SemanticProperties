@@ -1,0 +1,24 @@
+{{OslTemplate:Property/Quantity
+|description====Plain text===
+Temperature is a physical property of matter that quantitatively expresses the common notions of hot and cold. Objects of low temperature are cold, while various degrees of higher temperatures are referred to as warm or hot. Heat spontaneously flows from bodies of a higher temperature to bodies of lower temperature, at a rate that increases with the temperature difference and the thermal conductivity.
+|ontology_iri=http://qudt.org/vocab/quantitykind/Temperature; http://www.wikidata.org/entity/Q11466; http://dbpedia.org/resource/Temperature
+|main_unit=°C
+|main_unit_ontology_iri=http://qudt.org/vocab/unit/DEG_C; http://qudt.org/vocab/unit/K
+|alternative_names=Cel; K
+|alternative_units={{OslTemplate:Property/Quantity/Unit
+|unit=m°C
+|factor=1000.0
+|alternative_names=mCel
+|use_as_display_unit=Yes
+|use_as_input_unit=Yes
+|ontology_iri=http://qudt.org/vocab/unit/MilliDEG_C
+}}{{OslTemplate:Property/Quantity/Unit
+|unit=°F
+|factor=1.7999999999999998
+|alternative_names=[degF]; [degR]
+|use_as_display_unit=Yes
+|use_as_input_unit=Yes
+|ontology_iri=http://qudt.org/vocab/unit/DEG_R; http://qudt.org/vocab/unit/DEG_F
+}}
+|label=Temperatura@war;Timperateure@wa;Lämmidüs@vro;Fif@vo;nhiệt độ@vi;Tenperadura@vec;Harorat@uz;درجہ حرارت@ur;температура@uk;Температура@tt;ısı@tr;temperatura@tl;อุณหภูมิ@th;ఉష్ణోగ్రత@te;வெப்பநிலை@ta;Halijoto@sw;temperatur@sv;Suhu@su;температура@sr;temperatura@sq;Heerkul@so;Hujoto@sn;temperatura@sl;Teplota@sk;උෂ්ණත්වය@si;Tirɣi@shi;Temperatura@sh;temperatuvra@se;temperatur@sco;timpiratura@scn;Temperadura@sc;ᱞᱚᱞᱚᱥᱚᱝ@sat;температура@ru;temperatură@ro;Q'uñi kay@qu;temperatura@pt-br;temperatura@pt;ٹمپریچر@pnb;Temperadura@pms;temperatura@pl;ਤਾਪਮਾਨ@pa;ତାପମାତ୍ରା@or;Temperatura@oc;temperatur@nn;temperatuur@nl;तापक्रम@ne;temperetuur@nds-nl;Temperatur@nds;temperatur@nb;Un-tō͘@nan;အပူချိန်@my;temperatura@mt;suhu@ms;तापमान@mr;Температур@mn;ഊഷ്മാവ്@ml;температура@mk;температур@mhr;Mari-pana@mg;溫度@lzh;temperatūra@lv;temperatūra@lt;Temperadura@lmo;Temperatuur@li;Temperatur@lb;temperatura thermodynamica@la;Температура@ky;Germî@ku;온도@ko;ತಾಪಮಾನ@kn;Температура@kk;Taẓɣelt@kab;ტემპერატურა@ka;Suhu@jv;Tempicha@jam;温度@ja;temperatura@it;Hiti@is;Temperaturo@io;temperatura@ilo;suhu@id;Temperatura@ia;hőmérséklet@hu;Tanperati@ht;temperatura@hr;तापमान@hi;טמפרטורה@he;તાપમાન@gu;Temperatur@gsw;Mba'epytu@gn;temperatura@gl;Teothachd@gd;Tanpératir@gcr;teocht@ga;Temperatuer@fy;Temperatuur@frr;température@fr;lämpötila@fi;liegâsvuotâ@smn;د تودوخې درجه@ps;ջերմաստիճան@hyw;ջերմաստիճան@hy;температура@cv;دَرجہٕ حَرارَت@ks;溫度@zh-tw;温度@zh-sg;温度@zh-my;溫度@zh-mo;溫度@zh-hk;溫度@zh-hant;温度@zh-hans;溫度@zh;溫度@yue;טעמפעראטור@yi;Җиң@xal;温度@wuu;دما@fa;Temperatura@ext;tenperatura@eu;temperatuur@et;temperatura@es;temperaturo@eo;temperature@en-gb;Temperature@en-ca;temperature@en;θερμοκρασία@el;Temperatur@de;temperatur@da;tymheredd@cy;teplota@cs;araret@crh;پلەی گەرمی@ckb;Temperatura@ceb;temperatura@ca;Температура@bxr;Temperatura@bs;Gwrezverk@br;དྲོད་ཚད།@bo;তাপমাত্রা@bn;तापमान@bho;температура@bg;тэмпэратура@be-tarask;тэмпература@be;temperatura@bcl;Temperatua@bar;температура@ba;temperatur@az;Temperatura@ast;ঊষ্ণতা@as;حرارة (تيرموديناميك)@ary;درجة حرارة@ar;Temperatura@an;Temperatuur@af
+}}

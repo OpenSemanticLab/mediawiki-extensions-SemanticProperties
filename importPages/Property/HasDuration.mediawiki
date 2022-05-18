@@ -1,0 +1,7 @@
+{{OslTemplate:Property/Quantity
+|description=Time span for human observable processes
+|display_units=s; min; h; d
+|input_units=s; min; h; d
+|base_quantity=Property:HasTime
+|subquantity_of=Property:HasTime
+}}

@@ -1,0 +1,12 @@
+
+{{OslTemplate:Property/Quantity
+|label=ಪೀಡನ@kn;մեխանիկական լարում@hy;應力@zh-tw;应力@zh-sg;應力@zh-hk;應力@zh-hant;应力@zh-hans;應力@zh;應力@yue;应力@wuu;Ứng suất@vi;mexanik kuchlanish@uz;напруження@uk;stress@tl;ความเค้น@th;தகைவு@ta;Dragspänning@sv;napon@sr-el;напон@sr-ec;напон@sr;Mehanska napetost@sl;silové napätie v hmote@sk;Napor@sh;механическое напряжение@ru;efort unitar@ro;tensão@pt;naprężenie@pl;mechanische spanning@nl;spenning@nb;Tegasan@ms;ആയാസം@ml;напрегање@mk;Mehāniskais spriegums@lv;Įtempis@lt;변형력@ko;応力@ja;tensione interna@it;Tegangan@id;mechanikai feszültség@hu;Estrès@ht;Naprezanje@hr;प्रतिबल@hi;Tensión mecánica@gl;Jännitys@fi;تنش@fa;Pinge@et;tensión mecánica@es;Τάση@el;Механикăлла хиврелĕх@cv;mechanické napětí@cs;Napon (mehanika)@bs;পীড়ন@bn;Напрежение@bg;мэханічнае напружаньне@be-tarask;механічнае напружанне@be;Spaunnung@bar;Gərginlik@az;Tensión@ast;إجهاد@ar;Strus@ga;Spænding@da;tenseur des contraintes@fr;mechanische Spannung@de;stress@sco;streĉo@eo;stress@en;מאמץ@he;gerilim@tr;spenning@nn;tensió@ca
+|ontology_iri=http://qudt.org/vocab/quantitykind/Stress;http://www.wikidata.org/entity/Q206175
+|description=Stress is a measure of the average amount of force exerted per unit area of a surface within a deformable body on which internal forces act. In other words, it is a measure of the intensity or internal distribution of the total internal forces acting within a deformable body across imaginary surfaces. These internal forces are produced between the particles in the body as a reaction to external forces applied on the body. Stress is defined as <math>{\rm{Stress}} = \frac{F}{A}</math>.
+=== Latex ===
+<math>{\rm{Stress}} = \frac{F}{A}</math>
+|base_quantity=Property:HasForcePerArea
+|subquantity_of=Property:HasForcePerArea
+|display_units=uPa;uTorr;mPa;dyn/cm2;ubar;uatm;mTorr;Pa;kg.m-1.s-2;N.m-2;kPa{absolute};[lb_av].[ft_i].s-2.[sft_i]-1;kgf.m-2;mm[H2O];daPa;[lbf_av].[sft_i]-1;cm[H2O];gf.cm-2;hPa;mbar;Torr;mm[Hg];[in_i'H2O];kPa;cbar;cm[Hg];[in_i'Hg];[lbf_av].[sin_i]-1;[psi];dbar;N.cm-1;[ft_i'Hg];att;kgf.cm-2;bar;atm;N.mm-2;MPa;k[lbf_av].[sin_i]-1;k[lbf_av].[in_i]-2;kgf.mm-2;hbar;kbar;GP;Mbar
+|input_units=uPa;uTorr;mPa;dyn/cm2;ubar;uatm;mTorr;Pa;kg.m-1.s-2;N.m-2;kPa{absolute};[lb_av].[ft_i].s-2.[sft_i]-1;kgf.m-2;mm[H2O];daPa;[lbf_av].[sft_i]-1;cm[H2O];gf.cm-2;hPa;mbar;Torr;mm[Hg];[in_i'H2O];kPa;cbar;cm[Hg];[in_i'Hg];[lbf_av].[sin_i]-1;[psi];dbar;N.cm-1;[ft_i'Hg];att;kgf.cm-2;bar;atm;N.mm-2;MPa;k[lbf_av].[sin_i]-1;k[lbf_av].[in_i]-2;kgf.mm-2;hbar;kbar;GP;Mbar
+}}

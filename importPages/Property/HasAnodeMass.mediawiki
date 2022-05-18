@@ -1,0 +1,7 @@
+{{OslTemplate:Property/Quantity
+|description=Mass of an anode
+|display_units=g, mg
+|input_units=g, mg
+|base_quantity=Property:HasMass
+|subquantity_of=Property:HasElectrodeMass
+}}

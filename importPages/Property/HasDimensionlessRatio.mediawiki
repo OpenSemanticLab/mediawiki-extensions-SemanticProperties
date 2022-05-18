@@ -1,0 +1,10 @@
+
+{{OslTemplate:Property/Quantity
+|label=Dimensionless Ratio@en
+|ontology_iri=http://qudt.org/vocab/quantitykind/DimensionlessRatio
+|description=
+|base_quantity=Property:HasDimensionless
+|subquantity_of=Property:HasDimensionless
+|display_units=[pptr];[ppb];[ppm];[ppth];%;[1]
+|input_units=[pptr];[ppb];[ppm];[ppth];%;[1]
+}}

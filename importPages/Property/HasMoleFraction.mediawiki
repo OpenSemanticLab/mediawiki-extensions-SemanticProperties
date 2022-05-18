@@ -1,0 +1,12 @@
+
+{{OslTemplate:Property/Quantity
+|label=molfractie@nl;molfrakcio@eo;摩尔分数@zh;Молярна частка@uk;மோல் பின்னம்@ta;Molski delež@sl;мольная доля@ru;Fracție molară@ro;fração molar@pt;ułamek molowy@pl;molfraksjon@nb;മോൾഫ്രാക്ഷൻ@ml;몰분율@ko;frazione molare@it;Fraksi mol@id;móltört@hu;Rapò molè@ht;अणु-अंश@hi;fraction molaire@fr;Mooliosuus@fi;کسر مولی@fa;frakzio molar@eu;Moolimurd@et;fracción molar@es;amount-of-substance fraction@en;Γραμμομοριακό κλάσμα@el;Stoffmengenanteil@de;fracció molar@ca;মোল ভগ্নাংশ@bn;كسر مولي@ar;שבר מולרי@he;モル分率@ja;molfractie@nl;molfrakcio@eo;摩尔分数@zh;Молярна частка@uk;மோல் பின்னம்@ta;Molski delež@sl;мольная доля@ru;Fracție molară@ro;fração molar@pt;ułamek molowy@pl;molfraksjon@nb;മോൾഫ്രാക്ഷൻ@ml;몰분율@ko;frazione molare@it;Fraksi mol@id;móltört@hu;Rapò molè@ht;अणु-अंश@hi;fraction molaire@fr;Mooliosuus@fi;کسر مولی@fa;frakzio molar@eu;Moolimurd@et;fracción molar@es;amount-of-substance fraction@en;Γραμμομοριακό κλάσμα@el;Stoffmengenanteil@de;fracció molar@ca;মোল ভগ্নাংশ@bn;كسر مولي@ar;שבר מולרי@he;モル分率@ja
+|ontology_iri=http://qudt.org/vocab/quantitykind/MoleFraction;http://www.wikidata.org/entity/Q125264;http://dbpedia.org/resource/Mole_fraction
+|description=
+=== Plain text ===
+In chemistry, the mole fraction of a component in a mixture is the relative proportion of molecules belonging to the component to those in the mixture, by number of molecules. It is one way of measuring concentration.
+|base_quantity=Property:HasDimensionless
+|subquantity_of=Property:HasDimensionlessRatio
+|display_units=[pptr];[ppb];[ppm];[ppth];%;[1]
+|input_units=[pptr];[ppb];[ppm];[ppth];%;[1]
+}}

@@ -1,0 +1,12 @@
+{{OslTemplate:Property/Quantity
+|description=
+|main_unit=m³
+|alternative_names=m^3
+|base_quantity=
+|alternative_units={{OslTemplate:Property/Quantity/Unit
+|unit=l
+|factor=1000
+|alternative_names=litres
+|use_as_display_unit=Yes
+}}
+}}

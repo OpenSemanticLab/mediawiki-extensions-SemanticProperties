@@ -1,0 +1,29 @@
+{{OslTemplate:Property/Quantity
+|description=In physics, mass, more specifically inertial mass, can be defined as a quantitative measure of an object's resistance to acceleration.
+|ontology_iri=http://qudt.org/vocab/quantitykind/Mass
+|main_unit=kg
+|main_unit_ontology_iri=http://qudt.org/vocab/unit/KiloGM
+|alternative_names=kilogram; kilograms; Kilogram
+|alternative_units={{OslTemplate:Property/Quantity/Unit
+|unit=g
+|factor=1000
+|alternative_names=gram; grams; Gram
+|use_as_display_unit=Yes
+|use_as_input_unit=Yes
+|ontology_iri=http://qudt.org/vocab/unit/GM
+}}{{OslTemplate:Property/Quantity/Unit
+|unit=mg
+|factor=1000000
+|alternative_names=milligram; milligrams; Milligram
+|use_as_display_unit=Yes
+|use_as_input_unit=Yes
+|ontology_iri=http://qudt.org/vocab/unit/MilliGM
+}}{{OslTemplate:Property/Quantity/Unit
+|unit=t
+|factor=0.001
+|alternative_names=ton; tons
+|use_as_display_unit=No
+|use_as_input_unit=Yes
+|ontology_iri=http://qudt.org/vocab/unit/TONNE
+}}
+}}

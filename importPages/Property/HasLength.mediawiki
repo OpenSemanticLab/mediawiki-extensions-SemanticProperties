@@ -1,0 +1,29 @@
+{{OslTemplate:Property/Quantity
+|description=Length is a measure of distance.
+|ontology_iri=http://qudt.org/vocab/quantitykind/Length
+|main_unit=m
+|main_unit_ontology_iri=http://qudt.org/vocab/unit/M
+|alternative_names=meter, meters, metre, metres
+|alternative_units={{OslTemplate:Property/Quantity/Unit
+|unit=cm
+|factor=100
+|alternative_names=centimeter, centimeters, centimetre, centimetres
+|use_as_display_unit=No
+|use_as_input_unit=No
+|ontology_iri=http://qudt.org/vocab/unit/CentiM
+}}{{OslTemplate:Property/Quantity/Unit
+|unit=mm
+|factor=1000
+|alternative_names=millimeter, millimeters, millemetre, millimetres
+|use_as_display_unit=Yes
+|use_as_input_unit=Yes
+|ontology_iri=http://qudt.org/vocab/unit/MilliM
+}}{{OslTemplate:Property/Quantity/Unit
+|unit=nm
+|factor=1.000.000.000
+|alternative_names=nanometer; nanometers; nanometre; nanometres
+|use_as_display_unit=No
+|use_as_input_unit=No
+|ontology_iri=http://qudt.org/vocab/unit/NanoM
+}}
+}}

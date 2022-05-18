@@ -1,0 +1,14 @@
+
+{{OslTemplate:Property/Quantity
+|label=teedâ@smn;壓強@zh-hant;壓強@zh;壓力@yue;דרוק@yi;压强@wuu;presyon@war;bosim@uz;دباؤ@ur;басым@tt;Presyur@tl;పీడనం@te;shinikizo@sw;tekenan@su;pritisak@sr-el;притисак@sr-ec;cadaadis@so;puresha@sn;pressur@sco;Ñit'iy@qu;Pression@pms;pression@oc;चाप@new;ap-le̍k@nan;سیب@mzn;Лепштямо@myv;ဖိအား@my;даралт@mn;മർദ്ദം@ml;壓強@lzh;drök@li;басым@ky;pesto@ku;ಒತ್ತಡ@kn;қысым@kk;Adad@kab;წნევა@ka;preso@io;pression@ia;presyon@ht;druk@frr;presio@eu;pressure@en-gb;pressure@en-ca;pwysedd@cy;پەستان@ckb;Presyon@bcl;باسقی@azb;ضغط@ary;Druk@af;चाप@ne;Ճնշում@hy;áp suất@vi;тиск@uk;basınç@tr;ความดัน@th;அழுத்தம்@ta;притисак@sr;presioni@sq;tlak@sl;tlak@sk;tlak@sh;prissioni@scn;давление@ru;presiune@ro;pressão@pt-br;pressão@pt;ciśnienie@pl;trykk@nn;pressjoni@mt;tekanan@ms;दाब@mr;притисок@mk;spiediens@lv;spīdīņs@ltg;slėgis@lt;pressio@la;압력@ko;圧力@ja;pressione@it;tekanan@id;nyomás@hu;tlak@hr;दाब@hi;presión@gl;brú@ga;pression@fr;paine@fi;rõhk@et;presión@es;pressure@en;πίεση@el;tlak@cs;pressió@ca;pritisak@bs;চাপ@bn;налягане@bg;ціск@be-tarask;ціск@be;баҫым@ba;təzyiq@az;presión@ast;ضغط@ar;فشار@fa;druk@nl;Druck@gsw;לחץ@he;premo@eo;tryck@sv;Druck@nds;trykk@nb;Druck@de;tryk@da
+|ontology_iri=http://qudt.org/vocab/quantitykind/Pressure;http://www.wikidata.org/entity/Q39552;http://dbpedia.org/resource/Pressure
+|description=
+=== Plain text ===
+Pressure is an effect which occurs when a force is applied on a surface. Pressure is the amount of force acting on a unit area. Pressure is distinct from stress, as the former is the ratio of the component of force normal to a surface to the surface area. Stress is a tensor that relates the vector force to the vector area.
+=== Latex ===
+<math>p = \frac{dF}{dA}</math>, where <math>dF</math> is the force component perpendicular to the surface element of area <math>dA</math>.
+|base_quantity=Property:HasForcePerArea
+|subquantity_of=Property:HasForcePerArea
+|display_units=uPa;uTorr;mPa;dyn/cm2;ubar;uatm;mTorr;Pa;kg.m-1.s-2;N.m-2;kPa{absolute};[lb_av].[ft_i].s-2.[sft_i]-1;kgf.m-2;mm[H2O];daPa;[lbf_av].[sft_i]-1;cm[H2O];gf.cm-2;hPa;mbar;Torr;mm[Hg];[in_i'H2O];kPa;cbar;cm[Hg];[in_i'Hg];[lbf_av].[sin_i]-1;[psi];dbar;N.cm-1;[ft_i'Hg];att;kgf.cm-2;bar;atm;N.mm-2;MPa;k[lbf_av].[sin_i]-1;k[lbf_av].[in_i]-2;kgf.mm-2;hbar;kbar;GP;Mbar
+|input_units=uPa;uTorr;mPa;dyn/cm2;ubar;uatm;mTorr;Pa;kg.m-1.s-2;N.m-2;kPa{absolute};[lb_av].[ft_i].s-2.[sft_i]-1;kgf.m-2;mm[H2O];daPa;[lbf_av].[sft_i]-1;cm[H2O];gf.cm-2;hPa;mbar;Torr;mm[Hg];[in_i'H2O];kPa;cbar;cm[Hg];[in_i'Hg];[lbf_av].[sin_i]-1;[psi];dbar;N.cm-1;[ft_i'Hg];att;kgf.cm-2;bar;atm;N.mm-2;MPa;k[lbf_av].[sin_i]-1;k[lbf_av].[in_i]-2;kgf.mm-2;hbar;kbar;GP;Mbar
+}}
