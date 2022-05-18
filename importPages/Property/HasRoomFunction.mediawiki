@@ -1,0 +1,6 @@
+{{OslTemplate:Property
+|subproperty_of=
+|data_type=Page
+|allowed_value=Labor;Büro;Lagerraum;Konferenzraum;Pausenraum;Technologische Labors;
+|category=OSL/Property
+}}

@@ -1,0 +1,6 @@
+{{OslTemplate:Property
+|subproperty_of=Property:HasEndDate
+|data_type=Date
+|allowed_value=
+|category=OSL/Property
+}}
