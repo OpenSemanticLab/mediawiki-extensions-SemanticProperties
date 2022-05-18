@@ -36,6 +36,6 @@
     },
     "Hooks":{
         "BeforePageDisplay":"SemanticProperties::onBeforePageDisplay",
-        "PageImporterRegisterPageLists": "SemanticProperties::onPageImporterRegisterPageLists",
+        "PageImporterRegisterPageLists": "SemanticProperties::onPageImporterRegisterPageLists"
     }
 }
