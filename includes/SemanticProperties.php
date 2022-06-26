@@ -73,6 +73,8 @@ class SemanticProperties {
 				"Property:HasMobilePhoneNumber" => "Property/HasMobilePhoneNumber.mediawiki",
 				"Property:HasMoleFraction" => "Property/HasMoleFraction.mediawiki",
 				"Property:HasName" => "Property/HasName.mediawiki",
+				"Property:HasNumber" => "Property/HasNumber.mediawiki",
+				"Property:HasNumberOfEntities" => "Property/HasNumberOfEntities.mediawiki",
 				"Property:HasOntologyIri" => "Property/HasOntologyIri.mediawiki",
 				"Property:HasOtsBase64" => "Property/HasOtsBase64.mediawiki",
 				"Property:HasOuHead" => "Property/HasOuHead.mediawiki",

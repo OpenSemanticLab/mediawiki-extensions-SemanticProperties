@@ -1,0 +1,8 @@
+{{OslTemplate:Property
+|label=Number
+|ontology_iri=
+<!-- |subproperty_of=Property:Number -->
+|data_type=Number
+<!-- |label=Number -->
+|category=QuantityProperty
+}}

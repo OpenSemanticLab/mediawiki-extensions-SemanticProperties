@@ -1,0 +1,8 @@
+{{OslTemplate:Property
+|label=Count
+|ontology_iri=https://www.wikidata.org/wiki/Q614112
+<!-- |subproperty_of=Property:Number -->
+|data_type=Number
+<!-- |label=Number -->
+|category=QuantityProperty
+}}
