@@ -1,0 +1,6 @@
+[[Has type::Quantity]]
+[[Corresponds to::€ 1]]
+[[Corresponds to::1.06 USD, US$, $]]
+[[Display precision of::2]]
+[[Category:Property]]
+[[Equivalent URI::https://gpo.ontology.link/GPO_ac60cfc4_1500_41a4_9cf0_b5045155830e]]

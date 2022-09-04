@@ -1,0 +1,5 @@
+{{OslTemplate:Property
+|data_type=Page
+|description=Describes the relation between an object and its producing process
+|category=ObjectProperty
+}}

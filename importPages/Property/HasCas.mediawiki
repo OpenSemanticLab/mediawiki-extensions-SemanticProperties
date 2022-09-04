@@ -1,0 +1,8 @@
+{{OslTemplate:Property
+|subproperty_of=
+|data_type=External identifier
+|allowed_value=
+|category=OSL/Property
+|service=cas
+|external_uri=https://commonchemistry.cas.org/detail?cas_rn=$1
+}}

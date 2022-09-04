@@ -1,0 +1,5 @@
+{{OslTemplate:Property
+|data_type=Page
+|ontology_iri=https://gpo.ontology.link/GPO_703ec528_ea40_486e_9924_b911782b1a75
+|category=Category:ObjectProperty
+}}

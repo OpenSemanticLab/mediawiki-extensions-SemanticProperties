@@ -1,0 +1,6 @@
+{{OslTemplate:Property
+|data_type=Page
+|description=Points to an object as participant
+|subproperty_of=Property:HasParticipant
+|category=ObjectProperty
+}}

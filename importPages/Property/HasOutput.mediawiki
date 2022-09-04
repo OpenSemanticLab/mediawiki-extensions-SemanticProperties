@@ -1,6 +1,5 @@
 {{OslTemplate:Property
-|subproperty_of=
 |data_type=Page
-|allowed_value=
-|category=OSL/Property
+|ontology_iri=https://gpo.ontology.link/GPO_8c869b47_a258_43b9_9c75_4285a80a1dfb
+|category=Category:ObjectProperty
 }}

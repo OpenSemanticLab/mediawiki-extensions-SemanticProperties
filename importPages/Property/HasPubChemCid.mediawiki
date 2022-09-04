@@ -1,0 +1,8 @@
+{{OslTemplate:Property
+|subproperty_of=
+|data_type=External identifier
+|allowed_value=
+|category=OSL/Property
+|service=pubchem cid
+|external_uri=https://pubchem.ncbi.nlm.nih.gov/compound/$1
+}}

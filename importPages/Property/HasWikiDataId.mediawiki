@@ -1,6 +1,7 @@
 {{OslTemplate:Property
 |subproperty_of=
-|data_type=Text
+|data_type=External identifier
 |allowed_value=
 |category=OSL/Property
+|external_uri=https://www.wikidata.org/wiki/$1
 }}

@@ -1,0 +1,4 @@
+{{OslTemplate:Property
+|data_type=Text
+|category=DataProperty
+}}

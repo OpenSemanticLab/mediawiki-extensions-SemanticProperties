@@ -1,0 +1,6 @@
+{{OslTemplate:Property
+|data_type=Page
+|description=Describes a causally related object or process that exists at an earlier point in time
+|ontology_iri=https://gpo.ontology.link/GPO_389686f5_86d8_4e97_ba71_0537bedf0f38
+|category=Category:ObjectProperty
+}}
