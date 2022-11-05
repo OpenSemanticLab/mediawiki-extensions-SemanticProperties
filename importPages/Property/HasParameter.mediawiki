@@ -1,0 +1,5 @@
+{{OslTemplate:Property
+|data_type=Page
+|description=Links a process, material or hard/software tool to an abstract parameter. Use [[Property:HasInput]] for nominal, [[Property:HasOutput]] for actual parameters.
+|category=Category:ObjectProperty
+}}

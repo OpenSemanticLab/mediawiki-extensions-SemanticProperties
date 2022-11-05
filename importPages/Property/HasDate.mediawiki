@@ -1,6 +1,6 @@
 {{OslTemplate:Property
-|subproperty_of=HasDate
-|description=Begin of an event/process
+|subproperty_of=
+|description=A point in time
 |data_type=Date
 |allowed_value=
 |category=OSL/Property

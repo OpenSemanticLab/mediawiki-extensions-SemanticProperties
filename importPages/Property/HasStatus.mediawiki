@@ -1,5 +1,5 @@
 {{OslTemplate:Property
 |data_type=Page
+|description=Links a process or object to a specific status / state
 |category=Category:ObjectProperty
-|description=Links a subclass to a superclass / an instance to its type
 }}

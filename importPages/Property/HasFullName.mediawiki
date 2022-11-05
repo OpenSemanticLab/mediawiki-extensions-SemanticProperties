@@ -1,0 +1,3 @@
+{{OslTemplate:Property
+|data_type=Text
+}}

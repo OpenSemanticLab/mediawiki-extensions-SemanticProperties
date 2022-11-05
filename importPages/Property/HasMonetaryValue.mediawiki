@@ -1,4 +1,5 @@
 [[Has type::Quantity]]
+[[HasDescription::To link a currency value]]
 [[Corresponds to::€ 1]]
 [[Corresponds to::1.06 USD, US$, $]]
 [[Display precision of::2]]

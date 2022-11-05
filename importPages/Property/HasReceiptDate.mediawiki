@@ -1,0 +1,7 @@
+{{OslTemplate:Property
+|subproperty_of=Property:HasDate
+|description=Time at which an object (sample, document, etc.) was received.
+|data_type=Date
+|allowed_value=
+|category=OSL/Property
+}}

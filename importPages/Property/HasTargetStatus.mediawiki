@@ -1,5 +1,6 @@
 {{OslTemplate:Property
 |data_type=Page
+|description=The targeted final status
+|subproperty_of=Property:HasStatus
 |category=Category:ObjectProperty
-|description=Links a subclass to a superclass / an instance to its type
 }}
