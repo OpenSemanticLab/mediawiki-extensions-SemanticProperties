@@ -8,7 +8,7 @@
     "url":"https://github.com/simontaurus/mediawiki-extensions-SemanticProperties",
     "descriptionmsg":"semantic-properties-desc",
     "namemsg":"semantic-properties-name",
-    "license-name":"AGPL-3.0-or-later",
+    "license-name":"Apache-2.0",
     "type":"editor",
     "requires":{
         "MediaWiki":">= 1.31"
